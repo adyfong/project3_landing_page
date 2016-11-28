@@ -1,0 +1,65 @@
+@import url(http://fonts.googleapis.com/css?family=Give+You+Glory);
+
+.App {
+}
+
+.Header {
+  display: inline-block;
+  background: linear-gradient(to bottom, #464242, #212121 );
+}
+
+
+
+.App-nav {
+  float:right;
+  width: 25%;
+  height:20%;
+}
+
+.button {
+    background: linear-gradient(to bottom, #DD5A5A, #B22222 );
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    height: 45px;
+    width: 130px;
+    font-size: 16px;
+    margin-top: 30px;
+    margin-right: 8px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px #F5F5F5;
+}
+
+.canvasStyle {
+  margin-left: 100px;
+  width:65%;
+  height: 20%;
+}
+
+
+.Drawing-pad {
+    position: relative;
+    left: 30px;
+    top: 10px;
+    margin:auto 0;
+    text-align: center;
+}
+
+
+input[type='text'] {
+  width: 300px;
+  height: 20px;
+  padding: 10px 10px 10px 10px;
+  font-size: 12px;
+
+}
+
+body {
+ background: #ECECEC ;
+}
+
+
+
